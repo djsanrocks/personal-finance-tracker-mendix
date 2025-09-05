@@ -1,0 +1,7 @@
+personal-finance-tracker-mendix/
+├── README.md
+├── docs/
+│   └── screenshots/
+├── project-package/
+│   └── PersonalFinanceTracker.mpk
+└── .gitignore
