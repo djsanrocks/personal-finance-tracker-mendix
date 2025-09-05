@@ -1,1 +1,49 @@
+# Personal Finance Tracker - Mendix App
+
+A complete personal finance management application built with Mendix low-code platform.
+
+## Features
+- ✅ Account management (Checking, Savings, Credit Card)
+- ✅ Category management (Income/Expense categories)
+- ✅ Transaction tracking with account and category relationships
+- ✅ Responsive web interface
+- ✅ CRUD operations for all entities
+- ✅ Professional data grids and forms
+
+## Tech Stack
+- **Platform**: Mendix 11.2.0
+- **Database**: Built-in Mendix database
+- **UI Framework**: Atlas UI (Mendix)
+- **Deployment**: Mendix Cloud
+
+## Project Structure
+- **Entities**: Account, Category, Transaction
+- **Pages**: Overview and NewEdit pages for each entity
+- **Navigation**: Menu-driven interface
+- **Associations**: Transaction → Account, Transaction → Category
+
+## How to Run
+1. Download the .mpk file from `/project-package/`
+2. Import into Mendix Studio Pro
+3. Run locally or deploy to Mendix Cloud
+
+## Screenshots
+[Add screenshots of your running application]
+
+## Learning Outcomes
+This project demonstrates:
+- Mendix domain modeling
+- Page generation and customization
+- Entity relationships and associations
+- Navigation setup and menu creation
+- Form design and data grid configuration
+
+## Future Enhancements
+- [ ] Automatic balance calculations
+- [ ] Transaction filtering and search
+- [ ] Monthly/yearly reports
+- [ ] Data visualization charts
+- [ ] Export functionality
+
+Built with ❤️ using Mendix Low-Code Platform
 
